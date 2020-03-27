@@ -171,6 +171,7 @@
 				TargetAttributes = {
 					8401A94D1B398B5600269D14 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = Y24K27PHT7;
 						LastSwiftMigration = 1020;
 					};
 				};
@@ -392,6 +393,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Y24K27PHT7;
 				INFOPLIST_FILE = FontAwesomeDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "im.thi.$(PRODUCT_NAME:rfc1034identifier)";
@@ -404,6 +406,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Y24K27PHT7;
 				INFOPLIST_FILE = FontAwesomeDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "im.thi.$(PRODUCT_NAME:rfc1034identifier)";
