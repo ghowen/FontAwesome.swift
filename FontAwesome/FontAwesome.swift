@@ -215,6 +215,7 @@ public extension UIImage {
         guard let name = String.fontAwesome(code: code) else { return nil }
         return fontAwesomeIcon(name: name, style: style, textColor: textColor, size: size, backgroundColor: backgroundColor, borderWidth: borderWidth, borderColor: borderColor)
     }
+    
 }
 
 // FontAwesome internal helpers
